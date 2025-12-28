@@ -789,6 +789,8 @@ By [url=https://icons8.com/]Icons8[/url]
 [/notice]
 [/box]
 
+[url=https://github.com/424ever/osu-me/commits/master/]Changelog[/url]
+
 
 Stay safe my friend, and don't forget your towel.
 [box=?][notice]

@@ -828,4 +828,4 @@ More importantly, a towel has immense psychological value. For some reason, if a
    
 [/code]
 
-[url=https://github.com/424ever/osu-me/commits/master/]Source and Shangelog[/url]
+[url=https://github.com/424ever/osu-me/commits/master/]Source and Changelog[/url]

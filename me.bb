@@ -324,6 +324,9 @@ team (Austria B): [profile=18024782]punjabi_gaming[/profile] (c), [profile=13738
 [b]Scrims:[/b]
 [b]Netherlands B[/b] 6 | 3  [b]Austria B[/b] [url=https://osu.ppy.sh/community/matches/120186549]link[/url] [url=https://tourney.huismetbenen.nl/9/mappools/qf]map pool[/url]
 [b]Austria B[/b] 6 | 4 [b]Austria C[/b] [url=https://osu.ppy.sh/community/matches/120227582]link[/url]
+
+[b]Matches:[/b]
+Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120279915]link[/url]
 [/quote]
 [/box]
 [/notice]

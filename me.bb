@@ -329,6 +329,14 @@ team (Austria B): [profile=18024782]punjabi_gaming[/profile] (c), [profile=13738
 Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120279915]link[/url]
 [/quote]
 [/box]
+[box=5 Digit Touhou Cup 3]
+[quote]
+[url=https://osu.ppy.sh/community/forums/topics/2162098?n=1][b]forum post[/b][/url]
+team: TBD
+
+[b]Matches:[/b]
+[/quote]
+[/box]
 [/notice]
 [/box]
 [box=Shotgun Symphony]

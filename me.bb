@@ -331,7 +331,15 @@ team (Austria B): [profile=18024782]punjabi_gaming[/profile] (c), [profile=13738
 [b]Austria B[/b] 6 | 4 [b]Austria C[/b] [url=https://osu.ppy.sh/community/matches/120227582]link[/url]
 
 [b]Matches:[/b]
-Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120279915]link[/url]
+Qualifiers - Seed 29 (DNQ) [url=https://osu.ppy.sh/community/matches/120279915]link[/url]
+[/quote]
+[/box]
+[box=Aim Control Heaven]
+[quote]
+[url=https://osu.ppy.sh/community/forums/topics/2159874?n=1][b]forum post[/b][/url]
+team (Sigara icmek öldürur): [profile=22445565]crynisana[/profile], [profile=5643819]Cocoy[/profile], and [profile=12646557]424ever[/profile]
+
+[b]Matches:[/b]
 [/quote]
 [/box]
 [box=5 Digit Touhou Cup 3]

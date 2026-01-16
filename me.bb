@@ -331,7 +331,7 @@ team (Austria B): [profile=18024782]punjabi_gaming[/profile] (c), [profile=13738
 [b]Austria B[/b] 6 | 4 [b]Austria C[/b] [url=https://osu.ppy.sh/community/matches/120227582]link[/url]
 
 [b]Matches:[/b]
-Qualifiers - Seed 29 (DNQ) [url=https://osu.ppy.sh/community/matches/120279915]link[/url]
+Qualifiers - Seed 28 (DNQ) [url=https://osu.ppy.sh/community/matches/120279915]link[/url]
 [/quote]
 [/box]
 [box=Aim Control Heaven]

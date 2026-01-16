@@ -337,7 +337,7 @@ Qualifiers - Seed 28 (DNQ) [url=https://osu.ppy.sh/community/matches/120279915]l
 [box=Aim Control Heaven]
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/2159874?n=1][b]forum post[/b][/url]
-team (Sigara icmek öldürur): [profile=22445565]crynisana[/profile], [profile=5643819]Cocoy[/profile], and [profile=12646557]424ever[/profile]
+team (Sigara icmek öldürur): [profile=22445565]crynisana[/profile] (c), [profile=5643819]Cocoy[/profile], and [profile=12646557]424ever[/profile]
 
 [b]Matches:[/b]
 [/quote]
@@ -346,6 +346,14 @@ team (Sigara icmek öldürur): [profile=22445565]crynisana[/profile], [profile=5
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/2162098?n=1][b]forum post[/b][/url]
 team: TBD
+
+[b]Matches:[/b]
+[/quote]
+[/box]
+[box=FISH CUP]
+[quote]
+[url=https://osu.ppy.sh/community/forums/topics/2170537?n=1][b]forum post[/b][/url]
+team (Frying Tuna): [profile=12646557]424ever[/profile] (c), [profile=7117064]Marashi[/profile], and [profile=5643819]Cocoy[/profile]
 
 [b]Matches:[/b]
 [/quote]

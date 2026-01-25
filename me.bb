@@ -302,7 +302,7 @@ SF eliminated with 6 players remaining [url=https://osu.ppy.sh/community/matches
 [box=5 Digit World Cup Minor League 2025]
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/2033245][b]forum post[/b][/url]
-team (Austria B): [profile=12646557]424ever[/profile], [profile=7233221]Soldat101135[/profile], [profile=2987597]Calamityx7[/profile], [profile=25353315]Flapy[/profile], [profile=13481681]JustBecause[/profile], [profile=18024782]punjabi_gaming[/profile], [profile=5033522]Soldat101133[/profile], and [profile=12639976]Treezy[/profile]
+team (Austria B): [profile=12646557]424ever[/profile], [profile=7233221]Soldat101135[/profile], [profile=2987597]Calamityx7[/profile], [profile=25353315]Cappi[/profile], [profile=13481681]JustBecause[/profile], [profile=18024782]punjabi_gaming[/profile], [profile=5033522]Soldat101133[/profile], and [profile=12639976]Treezy[/profile]
 
 [b]Matches:[/b]
 Qualifiers - Seed 54 (DNQ) [url=https://osu.ppy.sh/community/matches/117431325]link[/url]
@@ -324,7 +324,7 @@ Quaterfinals [b][url=https://docs.google.com/spreadsheets/d/1vyRtGgZ-Yc6wT_usWUx
 [box=5 Digit European Cup Minor League 2026]
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/2160276][b]forum post[/b][/url]
-team (Austria B): [profile=18024782]punjabi_gaming[/profile] (c), [profile=13738564]VoiceOfF0x[/profile], [profile=9458469]timq[/profile], [profile=22445565]crynisana[/profile], [profile=7117064]Marashi[/profile], [profile=9735579]-kani[/profile], [profile=12646557]424ever[/profile], and [profile=33801506]greeeal[/profile]
+team (Austria B): [profile=18024782]punjabi_gaming[/profile] (c), [profile=13738564]VoiceOfF0X[/profile], [profile=9458469]timq[/profile], [profile=22445565]crynisana[/profile], [profile=7117064]Marashi[/profile], [profile=9735579]-kani[/profile], [profile=12646557]424ever[/profile], and [profile=33801506]greeeal[/profile]
 
 [b]Scrims:[/b]
 [b]Netherlands B[/b] 6 | 3  [b]Austria B[/b] [url=https://osu.ppy.sh/community/matches/120186549]link[/url] [url=https://tourney.huismetbenen.nl/9/mappools/qf]map pool[/url]
@@ -339,7 +339,7 @@ Qualifiers - Seed 28 (DNQ) [url=https://osu.ppy.sh/community/matches/120279915]l
 [url=https://osu.ppy.sh/community/forums/topics/2159874?n=1][b]forum post[/b][/url]
 team (Sigara icmek öldürur): [profile=22445565]crynisana[/profile] (c), [profile=5643819]Cocoy[/profile], and [profile=12646557]424ever[/profile]
 
-[b]Matches:[/b]
+Decided not to play Qualifiers because [img]https://424ever.github.io/images/mappool-too-hard.gif[/img]
 [/quote]
 [/box]
 [box=5 Digit Touhou Cup 3]

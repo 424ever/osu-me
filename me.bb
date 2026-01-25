@@ -348,6 +348,7 @@ Decided not to play Qualifiers because [img]https://424ever.github.io/images/map
 team: TBD
 
 [b]Matches:[/b]
+Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120387160]link[/url]
 [/quote]
 [/box]
 [box=FISH CUP]

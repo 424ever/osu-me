@@ -286,7 +286,7 @@ https://nyupenyu.s-ul.eu/qjul5hjS
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/1546220][b]forum post[/b][/url]
 
-[b]Matches:[/b]
+[u][b]Matches:[/b][/u]
 RO32 [profile=12646557]424ever[/profile] 3 | 0 [profile=16719540]-clouds-[/profile] [url=https://osu.ppy.sh/community/matches/99560053]link[/url]
 RO16 [profile=12646557]424ever[/profile] 0 | 3 [profile=18781432]EPEMA[/profile] [url=https://osu.ppy.sh/community/matches/99560666]link[/url]
 [/quote]
@@ -295,7 +295,7 @@ RO16 [profile=12646557]424ever[/profile] 0 | 3 [profile=18781432]EPEMA[/profile]
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/1564413][b]forum post[/b][/url]
 
-[b]Lobbies:[/b]
+[u][b]Lobbies:[/b][/u]
 SF eliminated with 6 players remaining [url=https://osu.ppy.sh/community/matches/100446808]link[/url]
 [/quote]
 [/box]
@@ -304,7 +304,7 @@ SF eliminated with 6 players remaining [url=https://osu.ppy.sh/community/matches
 [url=https://osu.ppy.sh/community/forums/topics/2033245][b]forum post[/b][/url]
 team (Austria B): [profile=12646557]424ever[/profile], [profile=7233221]Soldat101135[/profile], [profile=2987597]Calamityx7[/profile], [profile=25353315]Cappi[/profile], [profile=13481681]JustBecause[/profile], [profile=18024782]punjabi_gaming[/profile], [profile=5033522]Soldat101133[/profile], and [profile=12639976]Treezy[/profile]
 
-[b]Matches:[/b]
+[u][b]Matches:[/b][/u]
 Qualifiers - Seed 54 (DNQ) [url=https://osu.ppy.sh/community/matches/117431325]link[/url]
 [/quote]
 [/box]
@@ -313,7 +313,7 @@ Qualifiers - Seed 54 (DNQ) [url=https://osu.ppy.sh/community/matches/117431325]l
 [url=https://osu.ppy.sh/community/forums/topics/2092924?n=1][b]forum post (german)[/b][/url]
 team (gongening): [i]T1a[/i] [profile=10281124]slidermiss[/profile], [i]T1b[/i] [profile=19680480]xeladir[/profile], [i]T2[/i] [profile=14217761]datnonameboi[/profile], [i]T2[/i] [profile=31438745]KoRyX[/profile], [i]T3[/i] [profile=3742271]Swiftur[/profile], and [i]T3[/i] [profile=12646557]424ever[/profile]
 
-[b]Matches:[/b]
+[u][b]Matches:[/b][/u]
 Qualifiers - Seed 68 [url=https://osu.ppy.sh/community/matches/118666132]link[/url]
 Group Stage [url=https://docs.google.com/spreadsheets/d/1vyRtGgZ-Yc6wT_usWUx5qFznMzLPf2DL85G0RyhfxWU/edit?gid=470141017#gid=470141017&range=E32:K32]C-1[/url] [b][url=https://docs.google.com/spreadsheets/d/1vyRtGgZ-Yc6wT_usWUx5qFznMzLPf2DL85G0RyhfxWU/edit?gid=648307728#gid=648307728&range=F42:W43]gongening[/url][/b] 1 | 5 [b][url=https://docs.google.com/spreadsheets/d/1vyRtGgZ-Yc6wT_usWUx5qFznMzLPf2DL85G0RyhfxWU/edit?gid=648307728#gid=648307728&range=F10:W11]... :swan: :paintbrush:[/url][/b] [url=https://osu.ppy.sh/community/matches/118741881]link[/url]
 Group Stage [url=https://docs.google.com/spreadsheets/d/1vyRtGgZ-Yc6wT_usWUx5qFznMzLPf2DL85G0RyhfxWU/edit?gid=470141017#gid=470141017&range=E35:K35]C-4[/url] [b][url=https://docs.google.com/spreadsheets/d/1vyRtGgZ-Yc6wT_usWUx5qFznMzLPf2DL85G0RyhfxWU/edit?gid=648307728#gid=648307728&range=F42:W43]gongening[/url][/b] 2 | 5 [b][url=https://docs.google.com/spreadsheets/d/1vyRtGgZ-Yc6wT_usWUx5qFznMzLPf2DL85G0RyhfxWU/edit?gid=648307728#gid=648307728&range=F50:W51]Mizukana :ribbon: :musical_score:[/url][/b] [url=https://osu.ppy.sh/community/matches/118779386]link[/url]
@@ -326,11 +326,11 @@ Quaterfinals [b][url=https://docs.google.com/spreadsheets/d/1vyRtGgZ-Yc6wT_usWUx
 [url=https://osu.ppy.sh/community/forums/topics/2160276][b]forum post[/b][/url]
 team (Austria B): [profile=18024782]punjabi_gaming[/profile] (c), [profile=13738564]VoiceOfF0X[/profile], [profile=9458469]timq[/profile], [profile=22445565]crynisana[/profile], [profile=7117064]Marashi[/profile], [profile=9735579]-kani[/profile], [profile=12646557]424ever[/profile], and [profile=33801506]greeeal[/profile]
 
-[b]Scrims:[/b]
+[u][b]Scrims:[/b][/u]
 [b]Netherlands B[/b] 6 | 3  [b]Austria B[/b] [url=https://osu.ppy.sh/community/matches/120186549]link[/url] [url=https://tourney.huismetbenen.nl/9/mappools/qf]map pool[/url]
 [b]Austria B[/b] 6 | 4 [b]Austria C[/b] [url=https://osu.ppy.sh/community/matches/120227582]link[/url]
 
-[b]Matches:[/b]
+[u][b]Matches:[/b][/u]
 Qualifiers - Seed 28 (DNQ) [url=https://osu.ppy.sh/community/matches/120279915]link[/url]
 [/quote]
 [/box]
@@ -345,10 +345,10 @@ Decided not to play Qualifiers because [img]https://424ever.github.io/images/map
 [box=5 Digit Touhou Cup 3]
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/2162098?n=1][b]forum post[/b][/url]
-team: TBD
+team: N/A
 
-[b]Matches:[/b]
-Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120387160]link[/url]
+[u][b]Matches:[/b][/u]
+Qualifiers - Seed 329 (DNQ) [url=https://osu.ppy.sh/community/matches/120387160]link[/url]
 [/quote]
 [/box]
 [box=FISH CUP]
@@ -356,7 +356,15 @@ Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120387160]link[/url]
 [url=https://osu.ppy.sh/community/forums/topics/2170537?n=1][b]forum post[/b][/url]
 team (Frying Tuna): [profile=12646557]424ever[/profile] (c), [profile=7117064]Marashi[/profile], and [profile=5643819]Cocoy[/profile]
 
-[b]Matches:[/b]
+[u][b]Matches:[/b][/u]
+[/quote]
+[/box]
+[box=Laikas Deutsche Suijischaft]
+[quote]
+[url=https://osu.ppy.sh/community/forums/topics/2173384?n=1][b]forum post[/b][/url]
+team: TBD
+
+[u][b]Matches:[/b][/u]
 [/quote]
 [/box]
 [/notice]

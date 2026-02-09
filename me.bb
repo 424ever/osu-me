@@ -357,7 +357,7 @@ Qualifiers - Seed 329 (DNQ) [url=https://osu.ppy.sh/community/matches/120387160]
 team (Frying Tuna): [profile=12646557]424ever[/profile] (c), [profile=7117064]Marashi[/profile], and [profile=5643819]Cocoy[/profile]
 
 [u][b]Matches:[/b][/u]
-Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120484505]link[/url]
+Qualifiers - Seed 181 (DNQ) [url=https://osu.ppy.sh/community/matches/120484505]link[/url]
 [/quote]
 [/box]
 [box=Laikas Deutsche Suijischaft]

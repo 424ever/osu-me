@@ -362,7 +362,7 @@ Qualifiers - Seed 181 (DNQ) [url=https://osu.ppy.sh/community/matches/120484505]
 [/box]
 [box=Laikas Deutsche Suijischaft]
 [quote]
-[url=https://osu.ppy.sh/community/forums/topics/2173384?n=1][b]forum post[/b][/url]
+[url=https://osu.ppy.sh/community/forums/topics/2173384?n=1][b]forum post (german)[/b][/url]
 team: TBD
 
 [u][b]Matches:[/b][/u]
@@ -372,6 +372,14 @@ team: TBD
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/2176063?n=1][b]forum post[/b][/url]
 team (Random Kid): [profile=31032531]JPeaceKeeper[/profile], [profile=12646557]424ever[/profile]
+
+[u][b]Matches:[/b][/u]
+[/quote]
+[/box]
+[box=Bombastically Benevolent Badgeless Bonanza]
+[quote]
+[url=https://osu.ppy.sh/community/forums/topics/2178372?n=1]forum post[/url]
+team (TBD): [profile=15451297]Shi[/profile], [profile=12646557]424ever[/profile]
 
 [u][b]Matches:[/b][/u]
 [/quote]

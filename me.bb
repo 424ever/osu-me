@@ -379,7 +379,7 @@ team (Random Kid): [profile=31032531]JPeaceKeeper[/profile], [profile=12646557]4
 [box=Bombastically Benevolent Badgeless Bonanza]
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/2178372?n=1]forum post[/url]
-team (TBD): [profile=15451297]Shi[/profile], [profile=12646557]424ever[/profile]
+team (problematically large pp): [profile=15451297]Shi[/profile], [profile=12646557]424ever[/profile]
 
 [u][b]Matches:[/b][/u]
 [/quote]

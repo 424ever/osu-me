@@ -282,6 +282,20 @@ https://nyupenyu.s-ul.eu/qjul5hjS
 [/box]
 [box=Tournaments]
 [notice]
+[u][size=150]Playing History[/size][/u]
+[box=James' Rookie Cup 2]
+[quote]
+[url=https://osu.ppy.sh/community/forums/topics/1248720?n=1][b]forum post[/b][/url]
+
+[u][b]Matches:[/b][/u]
+Qualifiers - Seed 89 (DNQ)
+[/quote]
+[/box]
+[box="SMP"]
+[quote]
+I have the mappool of a tournament saved in my collections with the short code "SMP" with scores from around end of July 2022, but I can't remember what tournament this would have been.
+[/quote]
+[/box]
 [box=Scarlet's Speedy Keen Competition 3]
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/1546220][b]forum post[/b][/url]
@@ -379,7 +393,7 @@ team (Random Kid): [profile=31032531]JPeaceKeeper[/profile], [profile=12646557]4
 [/box]
 [box=Bombastically Benevolent Badgeless Bonanza]
 [quote]
-[url=https://osu.ppy.sh/community/forums/topics/2178372?n=1]forum post[/url]
+[url=https://osu.ppy.sh/community/forums/topics/2178372?n=1][b]forum post[/b][/url]
 team (problematically large pp): [profile=15451297]Shi[/profile], [profile=12646557]424ever[/profile]
 
 [u][b]Matches:[/b][/u]

@@ -383,7 +383,7 @@ Qualifiers - Seed 181 (DNQ) [url=https://osu.ppy.sh/community/matches/120484505]
 team: TBD
 
 [u][b]Matches:[/b][/u]
-Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120626979]link[/url]
+Qualifiers - Seed 42 [url=https://osu.ppy.sh/community/matches/120626979]link[/url]
 [/quote]
 [/box]
 [box=Gambling Gulag League 2]

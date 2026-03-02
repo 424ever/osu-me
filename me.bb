@@ -291,9 +291,12 @@ https://nyupenyu.s-ul.eu/qjul5hjS
 Qualifiers - Seed 89 (DNQ)
 [/quote]
 [/box]
-[box="SMP"]
+[box=Short Map Paradise]
 [quote]
-I have the mappool of a tournament saved in my collections with the short code "SMP" with scores from around end of July 2022, but I can't remember what tournament this would have been.
+[url=https://osu.ppy.sh/community/forums/topics/1587943?n=1][b]forum post[/b][/url]
+
+[u][b]Matches:[/b][/u]
+Qualifiers - Seed 79 (DNQ)
 [/quote]
 [/box]
 [box=Scarlet's Speedy Keen Competition 3]

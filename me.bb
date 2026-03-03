@@ -380,7 +380,7 @@ Qualifiers - Seed 181 (DNQ) [url=https://osu.ppy.sh/community/matches/120484505]
 [box=Laikas Deutsche Suijischaft]
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/2173384?n=1][b]forum post (german)[/b][/url]
-team: TBD
+team (MULA): [i]T1[/i] [profile=23261764]-Matti[/profile], [i]T2a[/i] [profile=22287370]SiriusOnly[/profile], [i]T2b[/i] [profile=12646557]424ever[/profile], [i]T3a[/i] [profile=7618738]MegaHamburger[/profile], and [i]T3b[/i] [profile=11559369]DarkWolfyChan[/profile]
 
 [u][b]Matches:[/b][/u]
 Qualifiers - Seed 42 [url=https://osu.ppy.sh/community/matches/120626979]link[/url]

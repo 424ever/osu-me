@@ -405,7 +405,7 @@ team (problematically large pp): [profile=15451297]Shi[/profile], [profile=12646
 [box=5 Digit World Cup Minor League 2026]
 [quote]
 [url=https://osu.ppy.sh/community/forums/topics/2174424?n=1][b]forum post[/b][/url]
-team (Austria B): [profile=13738564]VoiceOfF0X[/profile] (c), [profile=2760880]Demyst1fy[/profile], [profile=22445565]crynisana[/profile], [profile=12646557]424ever[/profile], [profile=5551051]LOVEONRAVE[/profile], [profile=10355992]Mummii[/profile], [profile=19977408]Peterrior[/profile], and [profile=9735579]-kani[/profile]
+team (Austria B): [profile=13738564]VoiceOfF0X[/profile] (c), [profile=2760880]drink water[/profile], [profile=22445565]crynisana[/profile], [profile=12646557]424ever[/profile], [profile=5551051]LOVEONRAVE[/profile], [profile=10355992]Mummii[/profile], [profile=19977408]Peterrior[/profile], and [profile=9735579]-kani[/profile]
 
 [u][b]Scrims:[/b][/u]
 

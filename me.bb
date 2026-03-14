@@ -403,6 +403,7 @@ team (Random Kid): [profile=31032531]JPeaceKeeper[/profile], [profile=12646557]4
 team (problematically large pp): [profile=15451297]Shi[/profile], [profile=12646557]424ever[/profile]
 
 [u][b]Matches:[/b][/u]
+Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120724792]link[/url]
 [/quote]
 [/box]
 [box=5 Digit World Cup Minor League 2026]

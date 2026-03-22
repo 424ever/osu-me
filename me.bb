@@ -217,6 +217,7 @@ Other 20
 [box=Collabs]
 [notice]
 [box=daily challenge full streak - year 1]
+[quote]
 [imagemap]
 https://nyupenyu.s-ul.eu/qjul5hjS
 56.62 1.41 13.71 10.76 https://osu.ppy.sh/users/12233680 NyuPenyu
@@ -278,6 +279,19 @@ https://nyupenyu.s-ul.eu/qjul5hjS
 56.62 87.48 13.71 10.76 https://osu.ppy.sh/users/5896117 camellirite
 70.32 87.48 13.71 10.76 https://osu.ppy.sh/users/7127366 Shaun
 [/imagemap]
+[/quote]
+[/box]
+[box=LDSS collab]
+[quote]
+[imagemap]
+https://i.ibb.co/mCJDh35P/collabnames.png
+0 0 15 100 https://osu.ppy.sh/users/11559369 DarkWolfyChan
+21 0 15 100 https://osu.ppy.sh/users/12646557 424ever
+42 0 16 100 https://osu.ppy.sh/users/23261764 -Matti
+63 0 16 100 https://osu.ppy.sh/users/22287370 SiriusOnly
+85 0 16 100 https://osu.ppy.sh/users/7618738 MegaHamburger
+[/imagemap]
+[/quote]
 [/box]
 [/notice]
 [/box]

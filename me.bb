@@ -428,7 +428,9 @@ Qualifiers - Seed 40 (DNQ) [url=https://osu.ppy.sh/community/matches/120724792]l
 team (Austria B): [profile=13738564]VoiceOfF0X[/profile] (c), [profile=2760880]drink water[/profile], [profile=22445565]crynisana[/profile], [profile=12646557]424ever[/profile], [profile=5551051]LOVEONRAVE[/profile], [profile=10355992]Mummii[/profile], [profile=19977408]Peterrior[/profile], and [profile=9735579]-kani[/profile]
 
 [u][b]Matches:[/b][/u]
-Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120776874]link[/url]
+Qualifiers - Seed 67 (DNQ) [url=https://osu.ppy.sh/community/matches/120776874]link[/url]
+
+[img]https://424ever.github.io/images/6-7.gif[/img]
 [/quote]
 [/box]
 [/notice]

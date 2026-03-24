@@ -430,7 +430,7 @@ team (Austria B): [profile=13738564]VoiceOfF0X[/profile] (c), [profile=2760880]d
 [u][b]Matches:[/b][/u]
 Qualifiers - Seed 67 (DNQ) [url=https://osu.ppy.sh/community/matches/120776874]link[/url]
 
-[img]https://424ever.github.io/images/6-7.gif[/img]
+[img]https://424ever.github.io/images/6-7.gif?a=0[/img]
 [/quote]
 [/box]
 [/notice]

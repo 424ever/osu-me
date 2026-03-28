@@ -403,6 +403,7 @@ Group Stage D6 [b]Team Chaos von Skylanders[/b] 5 | 1 [b]M für Mula[/b] [url=ht
 Group Stage D3 [b]Team Drink'n'Drive[/b] 5 | 3 [b]M für Mula[/b] [url=https://osu.ppy.sh/community/matches/120690445]link[/url]
 Group Stage D5 [b]0% accuracy 100% confidence[/b] 2 | 5 [b]M für Mula[/b] [url=https://osu.ppy.sh/community/matches/120729365]link[/url]
 Quaterfinals [b]M für Mula[/b] 6 | 3 [b]Mettbrötchen[/b] [url=https://osu.ppy.sh/community/matches/120778605]link[/url]
+Semifinals [b]M für Mula[/b] 3 | 6 [b]DAAAAAAMMMMMNNNNNN!!!!!!!!!!!!!!!!!!!!!![/b] [url=https://osu.ppy.sh/community/matches/120816877]link[/url]
 [/quote]
 [/box]
 [box=Gambling Gulag League 2]

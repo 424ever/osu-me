@@ -440,6 +440,7 @@ Qualifiers - Seed 67 (DNQ) [url=https://osu.ppy.sh/community/matches/120776874]l
 team (maidenless): [profile=22445565]crynisana[/profile] (c), [profile=18775526]studya[/profile], [profile=12646557]424ever[/profile], [profile=5643819]Cocoy[/profile], [profile=10355992]Mummii[/profile], [profile=17642549]My Angel Hopes[/profile], [profile=21759323]Clemi1337[/profile], and [profile=31713010]Maiyk[/profile]
 
 [u][b]Matches:[/b][/u]
+Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/120972592]link[/url]
 [/quote]
 [/box]
 [/notice]

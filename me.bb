@@ -17,7 +17,7 @@
 
 [heading]Hi[/heading]
 
-I see you somehow ended up on my profile. It may not be the flashiest profile, but I tried to make it look fairly pleasant while keeping it easy to navigate. 
+I see you somehow ended up on my profile. It may not be the flashiest profile, but I tried to make it look fairly pleasant while keeping it easy to navigate.
 
 [box=Why I think putting everything on your profile in the center is stupid]
 [notice]
@@ -412,6 +412,7 @@ Semifinals [b]M für Mula[/b] 3 | 6 [b]DAAAAAAMMMMMNNNNNN!!!!!!!!!!!!!!!!!!!!!![
 team (Random Kid): [profile=31032531]JPeaceKeeper[/profile], [profile=12646557]424ever[/profile]
 
 [u][b]Matches:[/b][/u]
+Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/121100269]link[/url]
 [/quote]
 [/box]
 [box=Bombastically Benevolent Badgeless Bonanza]
@@ -592,7 +593,7 @@ BLACK FOUR POINTED STAR                       ✦
 COMET                                         ☄
 SINHALA LETTER KANTAJA NAASIKYAYA             ඞ
 Sinhala Letter Alpapraana Ddayanna            ඩ
-ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM ﷽  
+ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM ﷽
 [/code]
 [/box]
 [/box]
@@ -685,7 +686,7 @@ More importantly, a towel has immense psychological value. For some reason, if a
 [/notice][/box]
 
 [code]
-   
+
 
 
 
@@ -708,5 +709,5 @@ More importantly, a towel has immense psychological value. For some reason, if a
                                     88      YP   YP VP   V8P Y888888P  `Y88P'
 
 
-   
+
 [/code]

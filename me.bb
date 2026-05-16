@@ -413,7 +413,7 @@ Semifinals [b]M für Mula[/b] 3 | 6 [b]DAAAAAAMMMMMNNNNNN!!!!!!!!!!!!!!!!!!!!!![
 team (Random Kid): [profile=31032531]JPeaceKeeper[/profile], [profile=12646557]424ever[/profile]
 
 [u][b]Matches:[/b][/u]
-Qualifiers - TBD [url=https://osu.ppy.sh/community/matches/121100269]link[/url]
+Qualifiers - Seed 49 (Seed 11 in the stupid by name seeding thing) [url=https://osu.ppy.sh/community/matches/121100269]link[/url]
 [/quote]
 [/box]
 [box=Bombastically Benevolent Badgeless Bonanza]

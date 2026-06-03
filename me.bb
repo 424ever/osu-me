@@ -415,6 +415,7 @@ team (Random Kid): [profile=31032531]JPeaceKeeper[/profile], [profile=12646557]4
 [u][b]Matches:[/b][/u]
 Qualifiers - Seed 49 (Seed 11 in the stupid by name seeding thing) [url=https://osu.ppy.sh/community/matches/121100269]link[/url]
 RO128 [b]Random Kid[/b] 1 | 5 [b]Hermes Boots[/b] [url=https://osu.ppy.sh/community/matches/121145736]link[/url] [url=https://osu.ppy.sh/community/matches/121145972]link2[/url]
+RO64 [b]Random Kid[/b] 5 | 2 [b]MiComet[/b] [url=https://osu.ppy.sh/community/matches/121259951]link[/url]
 [/quote]
 [/box]
 [box=Bombastically Benevolent Badgeless Bonanza]

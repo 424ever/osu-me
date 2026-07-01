@@ -155,6 +155,7 @@ I won't be mad if you don't use these. I will, however, judge you silently if I 
 [*] 13.12.2025 - [url=https://x.com/424ever_/status/1999852711966347408]100d total play time[/url]
 [*] 14.12.2025 - [url=https://osu.ppy.sh/scores/5899548183]Sidetracked Day [Daydream] FC[/url]
 [*] 08.03.2026 - forgot to play the Daily Challenge and lost my perfect streak (591)
+[*] 30.06.2026 - 7000pp
 [/list]
 [/notice]
 [/box]
